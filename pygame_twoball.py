@@ -1,26 +1,3 @@
-Pastebin
-API
-tools
-faq
-paste
-Search...
-
-pankovamg
-FREE
-pankovamg
- 
-SHARE
-TWEET
-pankovamg
-Pygame1
-pankovamg
-Apr 29th, 2026
-27
-0
-Never
-1
- 1.21 KB | None |  
-       
 import pygame
  
 SIZE = WIDTH, HEIGHT = 400, 400
